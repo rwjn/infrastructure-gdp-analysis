@@ -1,0 +1,25 @@
+# Originals replaced by renamed versions
+2473787.pdf
+coursework.r
+coursework copy.r
+
+# Reference papers (not my work)
+PesaranZhou_Time-invariant-estimation_Sep-5-2014.pdf
+
+# Word document (LaTeX/PDF version included instead)
+Infrastructure and Gross Domestic Product Growth.docx
+
+# LaTeX build artefacts
+essay.aux
+essay.log
+essay.out
+essay.toc
+
+# System and temp files
+.DS_Store
+.Rapp.history
+.Rhistory
+data/.DS_Store
+data/.Rhistory
+data/~$*
+data/models_comparison_full.fld/

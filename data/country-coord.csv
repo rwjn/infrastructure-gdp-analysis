@@ -1,0 +1,245 @@
+Country,Alpha-3 code,Latitude (average)
+Afghanistan,AFG,33
+Albania,ALB,41
+Algeria,DZA,28
+American Samoa,ASM,-14.3333
+Andorra,AND,42.5
+Angola,AGO,-12.5
+Anguilla,AIA,18.25
+Antarctica,ATA,-90
+Antigua and Barbuda,ATG,17.05
+Argentina,ARG,-34
+Armenia,ARM,40
+Aruba,ABW,12.5
+Australia,AUS,-27
+Austria,AUT,47.3333
+Azerbaijan,AZE,40.5
+Bahamas,BHS,24.25
+Bahrain,BHR,26
+Bangladesh,BGD,24
+Barbados,BRB,13.1667
+Belarus,BLR,53
+Belgium,BEL,50.8333
+Belize,BLZ,17.25
+Benin,BEN,9.5
+Bermuda,BMU,32.3333
+Bhutan,BTN,27.5
+"Bolivia, Plurinational State of",BOL,-17
+Bosnia and Herzegovina,BIH,44
+Botswana,BWA,-22
+Bouvet Island,BVT,-54.4333
+Brazil,BRA,-10
+British Indian Ocean Territory,IOT,-6
+Brunei Darussalam,BRN,4.5
+Bulgaria,BGR,43
+Burkina Faso,BFA,13
+Burundi,BDI,-3.5
+Cambodia,KHM,13
+Cameroon,CMR,6
+Canada,CAN,60
+Cape Verde,CPV,16
+Cayman Islands,CYM,19.5
+Central African Republic,CAF,7
+Chad,TCD,15
+Chile,CHL,-30
+China,CHN,35
+Christmas Island,CXR,-10.5
+Cocos (Keeling) Islands,CCK,-12.5
+Colombia,COL,4
+Comoros,COM,-12.1667
+Congo,COG,-1
+"Congo, the Democratic Republic of the",COD,0
+Cook Islands,COK,-21.2333
+Costa Rica,CRI,10
+Côte d'Ivoire,CIV,8
+Croatia,HRV,45.1667
+Cuba,CUB,21.5
+Cyprus,CYP,35
+Czech Republic,CZE,49.75
+Denmark,DNK,56
+Djibouti,DJI,11.5
+Dominica,DMA,15.4167
+Dominican Republic,DOM,19
+Ecuador,ECU,-2
+Egypt,EGY,27
+El Salvador,SLV,13.8333
+Equatorial Guinea,GNQ,2
+Eritrea,ERI,15
+Estonia,EST,59
+Ethiopia,ETH,8
+Falkland Islands (Malvinas),FLK,-51.75
+Faroe Islands,FRO,62
+Fiji,FJI,-18
+Finland,FIN,64
+France,FRA,46
+French Guiana,GUF,4
+French Polynesia,PYF,-15
+French Southern Territories,ATF,-43
+Gabon,GAB,-1
+Gambia,GMB,13.4667
+Georgia,GEO,42
+Germany,DEU,51
+Ghana,GHA,8
+Gibraltar,GIB,36.1833
+Greece,GRC,39
+Greenland,GRL,72
+Grenada,GRD,12.1167
+Guadeloupe,GLP,16.25
+Guam,GUM,13.4667
+Guatemala,GTM,15.5
+Guernsey,GGY,49.5
+Guinea,GIN,11
+Guinea-Bissau,GNB,12
+Guyana,GUY,5
+Haiti,HTI,19
+Heard Island and McDonald Islands,HMD,-53.1
+Holy See (Vatican City State),VAT,41.9
+Honduras,HND,15
+Hong Kong,HKG,22.25
+Hungary,HUN,47
+Iceland,ISL,65
+India,IND,20
+Indonesia,IDN,-5
+"Iran, Islamic Republic of",IRN,32
+Iraq,IRQ,33
+Ireland,IRL,53
+Isle of Man,IMN,54.23
+Israel,ISR,31.5
+Italy,ITA,42.8333
+Jamaica,JAM,18.25
+Japan,JPN,36
+Jersey,JEY,49.21
+Jordan,JOR,31
+Kazakhstan,KAZ,48
+Kenya,KEN,1
+Kiribati,KIR,1.4167
+"Korea, Democratic People's Republic of",PRK,40
+"Korea, Republic of",KOR,37
+Kuwait,KWT,29.3375
+Kyrgyzstan,KGZ,41
+Lao People's Democratic Republic,LAO,18
+Latvia,LVA,57
+Lebanon,LBN,33.8333
+Lesotho,LSO,-29.5
+Liberia,LBR,6.5
+Libyan Arab Jamahiriya,LBY,25
+Liechtenstein,LIE,47.1667
+Lithuania,LTU,56
+Luxembourg,LUX,49.75
+Macao,MAC,22.1667
+"Macedonia, the former Yugoslav Republic of",MKD,41.8333
+Madagascar,MDG,-20
+Malawi,MWI,-13.5
+Malaysia,MYS,2.5
+Maldives,MDV,3.25
+Mali,MLI,17
+Malta,MLT,35.8333
+Marshall Islands,MHL,9
+Martinique,MTQ,14.6667
+Mauritania,MRT,20
+Mauritius,MUS,-20.2833
+Mayotte,MYT,-12.8333
+Mexico,MEX,23
+"Micronesia, Federated States of",FSM,6.9167
+"Moldova, Republic of",MDA,47
+Monaco,MCO,43.7333
+Mongolia,MNG,46
+Montenegro,MNE,42
+Montserrat,MSR,16.75
+Morocco,MAR,32
+Mozambique,MOZ,-18.25
+Myanmar,MMR,22
+Namibia,NAM,-22
+Nauru,NRU,-0.5333
+Nepal,NPL,28
+Netherlands,NLD,52.5
+Netherlands Antilles,ANT,12.25
+New Caledonia,NCL,-21.5
+New Zealand,NZL,-41
+Nicaragua,NIC,13
+Niger,NER,16
+Nigeria,NGA,10
+Niue,NIU,-19.0333
+Norfolk Island,NFK,-29.0333
+Northern Mariana Islands,MNP,15.2
+Norway,NOR,62
+Oman,OMN,21
+Pakistan,PAK,30
+Palau,PLW,7.5
+"Palestinian Territory, Occupied",PSE,32
+Panama,PAN,9
+Papua New Guinea,PNG,-6
+Paraguay,PRY,-23
+Peru,PER,-10
+Philippines,PHL,13
+Pitcairn,PCN,-24.7
+Poland,POL,52
+Portugal,PRT,39.5
+Puerto Rico,PRI,18.25
+Qatar,QAT,25.5
+Réunion,REU,-21.1
+Romania,ROU,46
+Russian Federation,RUS,60
+Rwanda,RWA,-2
+"Saint Helena, Ascension and Tristan da Cunha",SHN,-15.9333
+Saint Kitts and Nevis,KNA,17.3333
+Saint Lucia,LCA,13.8833
+Saint Pierre and Miquelon,SPM,46.8333
+Saint Vincent and the Grenadines,VCT,13.25
+Samoa,WSM,-13.5833
+San Marino,SMR,43.7667
+Sao Tome and Principe,STP,1
+Saudi Arabia,SAU,25
+Senegal,SEN,14
+Serbia,SRB,44
+Seychelles,SYC,-4.5833
+Sierra Leone,SLE,8.5
+Singapore,SGP,1.3667
+Slovakia,SVK,48.6667
+Slovenia,SVN,46
+Solomon Islands,SLB,-8
+Somalia,SOM,10
+South Africa,ZAF,-29
+South Georgia and the South Sandwich Islands,SGS,-54.5
+South Sudan,SSD,8
+Spain,ESP,40
+Sri Lanka,LKA,7
+Sudan,SDN,15
+Suriname,SUR,4
+Svalbard and Jan Mayen,SJM,78
+Swaziland,SWZ,-26.5
+Sweden,SWE,62
+Switzerland,CHE,47
+Syrian Arab Republic,SYR,35
+"Taiwan, Province of China",TWN,23.5
+Tajikistan,TJK,39
+"Tanzania, United Republic of",TZA,-6
+Thailand,THA,15
+Timor-Leste,TLS,-8.55
+Togo,TGO,8
+Tokelau,TKL,-9
+Tonga,TON,-20
+Trinidad and Tobago,TTO,11
+Tunisia,TUN,34
+Turkey,TUR,39
+Turkmenistan,TKM,40
+Turks and Caicos Islands,TCA,21.75
+Tuvalu,TUV,-8
+Uganda,UGA,1
+Ukraine,UKR,49
+United Arab Emirates,ARE,24
+United Kingdom,GBR,54
+United States,USA,38
+United States Minor Outlying Islands,UMI,19.2833
+Uruguay,URY,-33
+Uzbekistan,UZB,41
+Vanuatu,VUT,-16
+"Venezuela, Bolivarian Republic of",VEN,8
+Viet Nam,VNM,16
+"Virgin Islands, British",VGB,18.5
+"Virgin Islands, U.S.",VIR,18.3333
+Wallis and Futuna,WLF,-13.3
+Western Sahara,ESH,24.5
+Yemen,YEM,15
+Zambia,ZMB,-15
+Zimbabwe,ZWE,-20
