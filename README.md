@@ -2,7 +2,7 @@
 
 This project was completed as part of coursework for the Economics with Data Science MSc. The project received a distinction.
 
-### [Read the essay (PDF)](Noble%202024%20-%20Infrastructure%20and%20GDP%20Growth.pdf)
+### [Read the essay (PDF)](rwjn%202024%20-%20Infrastructure%20and%20GDP%20Growth.pdf)
 
 ---
 
@@ -35,7 +35,7 @@ Africa and Asia continent dummies are included in the second stage to control fo
 ## Repository Contents
 
 ```
-├── Noble 2024 - Infrastructure and GDP Growth.pdf   # Essay
+├── rwjn 2024 - Infrastructure and GDP Growth.pdf    # Essay
 ├── essay.tex                                        # LaTeX source
 ├── analysis.r                                       # Full R analysis
 ├── Rplotshapes.png                                  # Figure 1: scatter plot
