@@ -12,7 +12,7 @@ library(stargazer)
 library(AER)
 
 # Set working directory to current folder
-setwd("/Users/robertnoble/Library/CloudStorage/OneDrive-UniversityofBristol/EWDS/dev_econ/coursework/data")
+# setwd("path/to/data")  # Set your working directory here
 
 #### Load Data ####
 
